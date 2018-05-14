@@ -95,6 +95,8 @@ The startup projects are also listed in the instructions for each exercise. If y
 
 To run an exercise solution, simply press <kbd>F5</kbd> in Visual Studio. The exercise solution will now be running and fully functional.
 
+Note: In addition all solutions are configured to support the [SwitchStartupProject for 2017](https://marketplace.visualstudio.com/items?itemName=vs-publisher-141975.SwitchStartupProjectforVS2017) Visual Studio extension. If you prefer just install the extension and from the configuration drop down select the startup configuration named `Exercise`.
+
 ### Note
 
 The solutions contain single page applications (SPAs) and use `IIS Express`. To prevent caching issues, before switching to another exercise:
